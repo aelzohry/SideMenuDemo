@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  SideMenuDemo
+
+  Created by Ahmed Elzohry on 1/30/19.
+  Copyright © 2019 Ahmed Elzohry. All rights reserved.
+*/
+
+"home" = "HOME";
+"menu" = "Menu";
